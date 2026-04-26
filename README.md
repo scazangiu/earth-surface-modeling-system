@@ -10,7 +10,7 @@ Python project modeling geographic regions and analyzing population and greenhou
 
 **Technologies Used**
 
--Python
+- Python
 
 **Example Functionality**
 
