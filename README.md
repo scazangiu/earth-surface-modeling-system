@@ -1,5 +1,5 @@
 # earth-surface-modeling-system
-Python project modeling geographic regions and analyzing population and greenhouse gas data, including simulation of future conditions.
+Python project for modeling geographic regions, analyzing population and greenhouse gas emissions, and simulating future population conditions
 
 **Features**
 
@@ -20,7 +20,7 @@ Python project modeling geographic regions and analyzing population and greenhou
 
 **Status**
 
-- In progress – continuing to expand features and improve simulation accuracy.
+Core project completed; repository cleaned and documented for portfolio use.
 
 **What I Learned**
 
